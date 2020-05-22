@@ -1,15 +1,15 @@
 {
-  "name": "alabaster-syntax",
+  "name": "alabaster-syntax-agjaeger",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "tonsky Alabaster theme for Atom",
+  "description": "tonsky Alabaster theme for Atom forked from grierson",
   "keywords": [
     "syntax",
     "theme",
     "alabaster",
     "clojure"
   ],
-  "repository": "https://github.com/grierson/alabaster-syntax",
+  "repository": "https://github.com/agjaeger/alabaster-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
